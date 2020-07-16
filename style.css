@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h2 {
+font-family: 'Roboto';
+color: #F0F8FF;
+font-size: 32px;
+}
+
+h3 {
+font-family: 'Roboto';
+color: #F0F8FF;
+font-size: 32px;
+}
+/*
+Some decorations
+*/
+a {
+font-family: 'Roboto';
+color: #F0F8FF;
+font-size: 32px;
+}
+/*
+put everything in place
+*/
+.container {
+text-align: center;
+margin-right: 32px;
+margin-bottom: 600px;
+}
+/*
+remove underline from text
+*/
+.rline {
+text-decoration: none;
+}
+/*
+let's add some colors
+*/
+body {
+background-color: #1a1c24;
+}
+/*
+smooth things up
+*/
+html {
+scroll-behavior: smooth;
+}
+/*
+positions
+*/
+.par {
+margin-top: 1000px;
+height: 650px;
+}
+
+.par1 {
+margin-left: 690px;
+}
+/*
+more colors
+*/
+.color1 {
+color: #7FFF00;
+border-color: #009933;
+background-color: #7FFF00;
+}
+/*
+styles and fonts
+*/
+.h2 {
+font-family: 'Roboto';
+color: #F0F8FF;
+font-size: 32px;
+}
+/*
+more positions
+*/
+.par2 {
+margin-left: 360px;
+}
+
+.par3 {
+margin-left: 360px;
+text-align: center;
+}
+/*
+size
+*/
+.size1 {
+border: 4px solid #009933;
+}
+
+/*
+Depths
+*/
+.depth1 {
+box-shadow: 5px solid #009933;
+}
+/*
+Home
+*/
+.Home {
+font-family: sans-serif;
+color: #32d61c;
+font-size: 100px;
+margin: 0px;
+padding: 0px;
+text-align: center;
+position: absolute;
+top: 30%;
+left: 47%;
+transform: translateX(-50%);
+margin-right: 2px;
+}
